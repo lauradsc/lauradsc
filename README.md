@@ -1,6 +1,6 @@
 Hello, I'm lauradsc!
 
-- 🌱 I’m currently learning Javascript, PHP and reactJS!
+- 🌱 I’m currently learning Javascript, PHP and ReactJS!
 - 👯 Contact me: lauraasouzza05@gmail.com
 - 😄 Pronouns: she/her
 
