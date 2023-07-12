@@ -38,6 +38,6 @@ I would love to have the opportunity to talk with you about how I can contribute
 <div> 
 <h2> Contact me :) </h2>
 <a href="https://www.linkedin.com/in/laura-costa-b3233021a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lauraasouzza05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:laurasouzacosta14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href = "https://api.whatsapp.com/send?phone=5531995072005&text=uma%20mensagem%20qualquer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
