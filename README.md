@@ -1,4 +1,4 @@
-<h3> Hello, I'm Laura! </h3>
+<h1> Hello, I'm Laura! </h1>
 
 <p> 
 Developer in constant learning. As a beginner, I know that I have a lot to learn and that I may make mistakes. However, I am committed to learning from these mistakes and working hard to become a high-level web developer. I am looking for an opportunity to participate in interesting and challenging projects where I can apply my skills and learn from the community.
