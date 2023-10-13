@@ -17,14 +17,14 @@ I would love to have the opportunity to talk with you about how I can contribute
 ##
 
 <div style="display: inline"><br>
-  <h2>Front-end </h2>
+  <h2>Front-end technologies</h2>
   <img align="center" alt="laura-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="laura-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="laura-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" align="center" alt="laura-bs" height="40"width="40" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" alt="laura-jquery" align="center" height="40"width="40" />
           
-  <h2> Back-end </h2>
+  <h2> Back-end technologies</h2>
   <img align="center" alt="laura-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" align="center" alt="laura-php" height="30" width="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" align="center" alt="laura-sql     height="30" width="40" />
