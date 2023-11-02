@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=150&section=header&text=Hi%20there,%20I'm%20Laura%20Costa%20&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=30" /> 
 
 <p class="left"> 
-<h3> About me </h3>
+<h3> &#x1F4BB; About me </h3>
 <strong>Developer</strong> in constant learning. Committed to learn and working hard to become a high-level developer . 
 I would love to have the opportunity to talk with you about how I can contribute to your projects. Please feel free to check out my profile and get in touch with me if you think I can be a valuable addition to your team.
 </p>
