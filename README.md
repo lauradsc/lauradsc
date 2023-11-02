@@ -15,6 +15,7 @@ I would love to have the opportunity to talk with you about how I can contribute
 ##
 
 <div style="display: inline" align="center"><br>
+    <h2> Utilized Technologies </h2>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery" />
   </a>
@@ -24,15 +25,12 @@ I would love to have the opportunity to talk with you about how I can contribute
     <img src="https://skillicons.dev/icons?i=cs,php,mysql,git,github,vscode," />
   </a>
 </p>
-   
-          
-          
 </div>
 
 
 ##
  
-<div> 
+<div align="center"> 
 <h2> Contact me :) </h2>
 <a href="https://www.linkedin.com/in/laura-costa-b3233021a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:laurasouzacosta14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
