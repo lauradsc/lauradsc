@@ -15,7 +15,6 @@ I would love to have the opportunity to talk with you about how I can contribute
 
 
 <div style="display: inline" align="center"><br>
-  <h1>utilized technologies</h1>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery" />
   </a>
