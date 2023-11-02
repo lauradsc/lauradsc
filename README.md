@@ -7,6 +7,9 @@ I would love to have the opportunity to talk with you about how I can contribute
 
 
 </p>
+![Code typing-bro](https://github.com/lauradsc/lauradsc/assets/99484087/92b3237a-ddb2-4fee-99a5-d3cc56311450)
+
+
 
 <div align="center">
 <a href="https://github.com/lauradsc">
