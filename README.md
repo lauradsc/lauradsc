@@ -12,7 +12,7 @@ I would love to have the opportunity to talk with you about how I can contribute
 <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauradsc&layout=compact&langs_count=7&theme=darcula"/>
 </div>
 
-
+##
 
 <div style="display: inline" align="center"><br>
     <a href="https://skillicons.dev">
