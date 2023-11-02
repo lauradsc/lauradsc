@@ -14,17 +14,15 @@ I would love to have the opportunity to talk with you about how I can contribute
 
 
 
-<div style="display: inline" align="left"><br>
-  <h1>Front-end</h1>
+<div style="display: inline" align="center"><br>
+  <h1>utilized technologies</h1>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery" />
   </a>
-</p>
           
-  <h1> Back-end</h1>
-  <p>
+  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,php,mysql" />
+    <img src="https://skillicons.dev/icons?i=cs,php,mysql,git,github,vscode," />
   </a>
 </p>
    
