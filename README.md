@@ -1,20 +1,15 @@
-<h1> Hello, I'm Laura! </h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=150&section=header&text=Hi%20there,%20I'm%20Laura%20Costa%20&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=30" /> 
 
-<p> 
-<h4>Developer</h4> in constant learning. As a beginner, I know that I have a lot to learn and that I may make mistakes. However, I am committed to learning from these mistakes and working hard to become a high-level web developer. I am looking for an opportunity to participate in interesting and challenging projects where I can apply my skills and learn from the community.
-
+<p class="left"> 
+<h3> About me </h3>
+<strong>Developer</strong> in constant learning. Committed to learn and working hard to become a high-level developer . 
 I would love to have the opportunity to talk with you about how I can contribute to your projects. Please feel free to check out my profile and get in touch with me if you think I can be a valuable addition to your team.
-
-
 </p>
-![Code typing-bro](https://github.com/lauradsc/lauradsc/assets/99484087/92b3237a-ddb2-4fee-99a5-d3cc56311450)
 
-
-
-<div align="center">
+<div align="left">
 <a href="https://github.com/lauradsc">
-<img height="185em" width="45%" src="https://github-readme-stats.vercel.app/api?username=lauradsc&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-<img height="175em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauradsc&layout=compact&langs_count=7&theme=darcula"/>
+<img height="185em" width="46%" src="https://github-readme-stats.vercel.app/api?username=lauradsc&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+<img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauradsc&layout=compact&langs_count=7&theme=darcula"/>
 </div>
 
 ##
