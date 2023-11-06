@@ -25,7 +25,7 @@ I would love to have the opportunity to talk with you about how I can contribute
 </p>
 </div>
 
-##
+
 
 <div align="left"> 
 <h3> Contact me :) </h3>
