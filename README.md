@@ -20,7 +20,7 @@ I would love to have the opportunity to talk with you about how I can contribute
           
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,php,mysql,git,github,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=cs,php,mysql,git,github,gitlab,vscode,visualstudio" />
   </a>
 </p>
 </div>
