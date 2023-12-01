@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=150&section=header&text=Hi%20there,%20I'm%20Laura%20Costa%20&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=30" /> 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="380px" width="380px" align="right" alt="Computador" />
+
 <p class="left"> 
 <h2> &#x1F4BB; About me </h2>
 <strong>Developer</strong> in constant learning. Committed to learn and working hard to become a high-level developer . 
