@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=transparent&height=110&color=gradient&customColorList=14,30,2)&text=Hi!%20I'm%20Laura!%20:D&fontSize=50&textBg=false&fontColor=A020F0&animation=fadeIn&fontAlignY=50" /> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=transparent&height=110&color=gradient&customColorList=14,30,2)&text=Hi!%20I'm%20Laura!%20:D&fontSize=50&textBg=false&fontColor=7D0DC3&animation=fadeIn&fontAlignY=50&reversal=false" /> 
 <p class="left"> 
 <h2> &#x1F4BB; About me </h2>
 <strong>Developer</strong> in constant learning. Committed to learn and working hard to become a high-level developer . 
