@@ -14,12 +14,10 @@ I would love to have the opportunity to talk with you about how I can contribute
 <div style="display: inline" align="center"><br>
     <h2> Utilized Technologies </h2>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery" />
-  </a>
-          
-  
-  <a href="https://skillicons.dev">
+        <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,php,python,django,mysql,git,github,gitlab,vscode,visualstudio,pycharm,linux" />
+  </a>
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery" />
   </a>
 </p>
 </div>
