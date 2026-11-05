@@ -1,15 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&height=70&color=gradient&text=Hello%20World!%20I'm%20Laura%20:)&fontColor=f2f2f2&fontSize=38"/> 
 <p class="left"> 
 <h2> &#x1F4BB; About me </h2>
-<strong>Developer</strong> in constant learning. Committed to learn and working hard to become a high-level developer . 
+<strong>Engineer</strong> in constant learning. Committed to learn and working hard to become a high-level Engineer. 
 I would love to have the opportunity to talk with you about how I can contribute to your projects. Please feel free to check out my profile and get in touch with me if you think I can be a valuable addition to your team.
 </p>
-
-<div align="left">
-<a href="https://github.com/lauradsc">
-<img height="185em" width="46%" src="https://github-readme-stats.vercel.app/api?username=lauradsc&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-<img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauradsc&layout=compact&langs_count=7&theme=darcula"/>
-</div>
 
 <div style="display: inline" align="center"><br>
     <h2> Utilized Technologies </h2>
